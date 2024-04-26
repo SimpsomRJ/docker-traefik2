@@ -1,2 +1,2 @@
-FROM traefik:2.10
+FROM traefik:2.11.2
 RUN apk update && apk --no-cache upgrade
